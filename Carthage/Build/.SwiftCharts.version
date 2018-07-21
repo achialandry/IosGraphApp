@@ -1,0 +1,9 @@
+{
+  "commitish" : "0.6.1",
+  "iOS" : [
+    {
+      "name" : "SwiftCharts",
+      "hash" : "ceea6fa41adc2d0c898fcd488a380d13a33bf7229b1b87bb30c1dde40f92e248"
+    }
+  ]
+}
